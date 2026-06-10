@@ -6,6 +6,7 @@
 
 * Python
 * Git & GitHub
+* Java
 * Artificial Intelligence
 * APIs
 * Software Development
